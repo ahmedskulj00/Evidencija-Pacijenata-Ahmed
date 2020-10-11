@@ -9,3 +9,7 @@ Those options are:
 5. Details about the medicines
 6. Add the medical ID
 #
+Here is how the app looks like (the app is currently in Bosnian language):
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/66512187/95687224-9db0a700-0c02-11eb-9200-21d144355ed7.png)
