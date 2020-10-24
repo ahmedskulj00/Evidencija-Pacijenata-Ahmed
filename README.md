@@ -1,4 +1,4 @@
-# Tracking-Patients-App-
+# Tracking-PatientsApp
 A program I did with my colleagues as a project at the university. Main idea of the program is to track the patients at the hospital, but there are other options aswell.
 #
 Those options are:
